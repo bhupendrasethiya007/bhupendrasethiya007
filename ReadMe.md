@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Bhupendra Sethiya 👋<br><br>Aspiring Data Analyst passionate about SQL, Power BI, and business analytics.
+Hi, I'm Bhupendra Sethiya 👋<br><br>Aspiring Data Analyst passionate about SQL, Power BI, Python  and business analytics.
 
 
 ## 🌐 Socials:
