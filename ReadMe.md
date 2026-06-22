@@ -1,9 +1,9 @@
 # Hi, I'm Bhupendra 
 <h1 align="center">🦇 Welcome to the Batcave of Data Analytics 🦇</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI5a2xjdWx0ZTM2aHZsMXhxNm92c2dyN3pzZDR3YTR4MWU4bTFzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="100%">
 </p>
+
 <h3 align="center">SQL | Excel | Power BI | PostgreSQL</h3>
 <h4 align="center">Turning Data Into Decisions 📊</h4>
 
