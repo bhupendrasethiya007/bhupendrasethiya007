@@ -1,7 +1,7 @@
 # Hi, I'm Bhupendra 
 <h1 align="center">🦇 Welcome to the Batcave of Data Analytics 🦇</h1>
 <p align="center">
-  <img src="GIF_URL_HERE" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0M3I3MWhxcnBncXV2MXZ3M2pzcjc1NXFnMWc4Y2N5MDBvYXN0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHo3T7P0YX7Ec/giphy.gif" width="500">
 </p>
 
 
