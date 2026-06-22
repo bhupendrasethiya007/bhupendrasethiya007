@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Bhupendra Sethiya</h1>
 <img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -41,7 +41,7 @@
 * Walmart Sales Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
 * Supply Chain Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
 * Netflix TV Shows & Movies Analysis : [🔗](https://github.com/bhupendrasethiya007/NETFLIX-TV-MOVIES-ANALYSIS)
-* 
+
 ## Power BI Projects
 
 * Finance Dashboard : [🔗](https://github.com/bhupendrasethiya007/Finance-Analysis-POWER_BI)
