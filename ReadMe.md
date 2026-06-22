@@ -26,6 +26,7 @@ Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing
 * IPL Dashboard (2008-2025) : [🔗](https://github.com/bhupendrasethiya007/IPL-Analysis-2008-2025-POWER-BI)
 * HR Attrition Dashboard : [🔗](https://github.com/bhupendrasethiya007/HR-Attrition-POWER-BI)
 * Amazon Prime Video Dashboard : [🔗](https://github.com/bhupendrasethiya007/Amazon-Prime-Video-Dashbaord-POWER-BI)
+* Blinkit Sales Dashboard :[🔗](https://github.com/bhupendrasethiya007/Blinkit-sales-dashboard)
 
 ## Excel Projects
 
