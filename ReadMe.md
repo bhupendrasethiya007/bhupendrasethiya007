@@ -1,18 +1,33 @@
-# 💫 About Me:
-Hi, I'm Bhupendra Sethiya 👋<br><br>Aspiring Data Analyst passionate about SQL, Power BI, Python  and business analytics.
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhupendrasethiya509@gmail.com) 
-
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhupendrasethiya007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bhupendrasethiya007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhupendrasethiya007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi, I'm Bhupendra 
+Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhupendrasethiya007&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Skills & Tools :-
+- **SQL**      : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
+- **Excel**    : Pivot Tables, Power Query, Data Cleaning, Power Pivot
+- **Power BI** : Data Modeling, DAX, Build Business Reports
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect With Me
+
+* 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/bhupendrasethiya007)
+* 📩 Gmail : [bhupendrasethiya509@gmail.com](mailto:bhupendrasethiya509@gmail.com)
+
+## SQL Projects
+
+* Amazon Sales Analysis : [🔗](https://github.com/bhupendrasethiya007/AMAZON-E-COMMERCE-SQL)
+* Library Management System : [🔗](https://github.com/bhupendrasethiya007/Library-Management-System-SQL)
+* Walmart Sales Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
+* Supply Chain Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
+* Netflix TV Shows & Movies Analysis : [🔗](https://github.com/bhupendrasethiya007/NETFLIX-TV-MOVIES-ANALYSIS)
+* 
+## Power BI Projects
+
+* Finance Dashboard : [🔗](https://github.com/bhupendrasethiya007/Finance-Analysis-POWER_BI)
+* IPL Dashboard (2008-2025) : [🔗](https://github.com/bhupendrasethiya007/IPL-Analysis-2008-2025-POWER-BI)
+* HR Attrition Dashboard : [🔗](https://github.com/bhupendrasethiya007/HR-Attrition-POWER-BI)
+* Amazon Prime Video Dashboard : [🔗](https://github.com/bhupendrasethiya007/Amazon-Prime-Video-Dashbaord-POWER-BI)
+
+## Excel Projects
+
+* HR Attrition Dashboard : [🔗](https://github.com/bhupendrasethiya007/HR-Attrition-Dashboard-EXCEL)
+
