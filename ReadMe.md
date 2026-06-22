@@ -1,7 +1,8 @@
 # Hi, I'm Bhupendra 
 <h1 align="center">🦇 Welcome to the Batcave of Data Analytics 🦇</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI5a2xjdWx0ZTM2aHZsMXhxNm92c2dyN3pzZDR3YTR4MWU4bTFzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0M3I3MWhxcnBncXV2MXZ3M2pzcjc1NXFnMWc4Y2N5MDBvYXN0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHo3T7P0YX7Ec/giphy.gif" width="500">
 </p>
 
 <h3 align="center">SQL | Excel | Power BI | PostgreSQL</h3>
