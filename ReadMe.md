@@ -28,6 +28,7 @@
 - **SQL**      : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
 - **Excel**    : Pivot Tables, Power Query, Data Cleaning, Power Pivot
 - **Power BI** : Data Modeling, DAX, Build Business Reports
+- **Python**   :  Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📫 Connect With Me
 
