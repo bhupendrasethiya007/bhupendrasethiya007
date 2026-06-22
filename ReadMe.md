@@ -1,14 +1,22 @@
-# Hi, I'm Bhupendra 
-<h1 align="center">🦇 Welcome to the Batcave of Data Analytics 🦇</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0M3I3MWhxcnBncXV2MXZ3M2pzcjc1NXFnMWc4Y2N5MDBvYXN0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHo3T7P0YX7Ec/giphy.gif" width="500">
+
 </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+<h1 align="center">Hi 👋, I'm Bhupendra Sethiya</h1>
+
+
+### A passionate Data Analyst from India
+
+* 🌱 I’m currently learning **Python**
+
+* 💬 Ask me about **SQL, Excel, Power BI**
+
+* 📫 How to reach me **[bhupendrasethiya509@gmail.com](mailto:bhupendrasethiya509@gmail.com)**
+
+* ⚡ Fun fact **I'm Batman 🦇**
 
 
 <h3 align="center">SQL | Excel | Power BI | PostgreSQL</h3>
-<h4 align="center">Turning Data Into Decisions 📊</h4>
-
-
 🦇 In a world full of data, I bring clarity.
 
 ---
