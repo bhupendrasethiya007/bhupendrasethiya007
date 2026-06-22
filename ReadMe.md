@@ -1,5 +1,7 @@
 # Hi, I'm Bhupendra 
-Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
+🦇 In a world full of data, I bring clarity.
+
+Aspiring Data Analyst skilled in SQL, Excel, Power BI, and PostgreSQL, transforming raw data into meaningful business insights.
 
 ---
 ## 🛠️ Skills & Tools :-
