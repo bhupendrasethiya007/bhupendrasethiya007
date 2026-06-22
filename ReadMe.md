@@ -1,4 +1,14 @@
 # Hi, I'm Bhupendra 
+<h1 align="center">🦇 Welcome to the Batcave of Data Analytics 🦇</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0M3I3MWhxcnBncXV2MXZ3M2pzcjc1NXFnMWc4Y2N5MDBvYXN0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHo3T7P0YX7Ec/giphy.gif" width="500">
+</p>
+
+<h3 align="center">SQL | Excel | Power BI | PostgreSQL</h3>
+<h4 align="center">Turning Data Into Decisions 📊</h4>
+
+
 🦇 In a world full of data, I bring clarity.
 
 Aspiring Data Analyst skilled in SQL, Excel, Power BI, and PostgreSQL, transforming raw data into meaningful business insights.
