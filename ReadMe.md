@@ -50,6 +50,7 @@
 * HR Attrition Dashboard : [🔗](https://github.com/bhupendrasethiya007/HR-Attrition-POWER-BI)
 * Amazon Prime Video Dashboard : [🔗](https://github.com/bhupendrasethiya007/Amazon-Prime-Video-Dashbaord-POWER-BI)
 * Blinkit Sales Dashboard :[🔗](https://github.com/bhupendrasethiya007/Blinkit-sales-dashboard)
+* E Commerce Funnel Dashboard :[🔗](https://github.com/bhupendrasethiya007/E-COMMERCE-FUNNEL-ANALYSIS-SQL-POWER-BI)
 
 ## Excel Projects
 
