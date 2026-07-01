@@ -2,21 +2,16 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Bhupendra Sethiya</h1>
-<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br>
-<br>
-* 🔭 I’m currently working on **Data Analytics Projects**
-  
-* 🌱 I’m currently learning **Python**
+<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-* 💬 Ask me about **SQL, Excel, Power BI, PostgreSQL**
+- 🌱 Currently learning **Python** to expand my data analytics expertise.
 
-* 📫 How to reach me **[bhupendrasethiya509@gmail.com](mailto:bhupendrasethiya509@gmail.com)**
+- 💬 Ask me about **SQL, Excel, Power BI, PostgreSQL**.
 
-* ⚡ Fun fact **I'm Batman 🦇**
+-  📊 Skilled in data analysis, dashboard creation, and business insights.
+- 🚀 Passionate about solving business problems with data-driven decisions.
+- 📫 How to reach me **[bhupendrasethiya509@gmail.com](mailto:bhupendrasethiya509@gmail.com)**
 
-
-<br>
 <br>
 <br>
 
