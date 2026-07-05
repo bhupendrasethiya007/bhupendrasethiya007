@@ -36,7 +36,7 @@
 * Amazon Sales Analysis : [🔗](https://github.com/bhupendrasethiya007/AMAZON-E-COMMERCE-SQL)
 * Library Management System : [🔗](https://github.com/bhupendrasethiya007/Library-Management-System-SQL)
 * Walmart Sales Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
-* Supply Chain Analysis : [🔗](https://github.com/bhupendrasethiya007/Walmart-Sales-Analysis-SQL)
+* Supply Chain Analysis : [🔗](https://github.com/bhupendrasethiya007/Supply-Chain-Analysis-SQL)
 * Netflix TV Shows & Movies Analysis : [🔗](https://github.com/bhupendrasethiya007/NETFLIX-TV-MOVIES-ANALYSIS)
 
 ## Power BI Projects
