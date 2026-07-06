@@ -1,3 +1,6 @@
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhupendrasethiya007&label=Profile+Views&color=0e75b6&style=flat)
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
