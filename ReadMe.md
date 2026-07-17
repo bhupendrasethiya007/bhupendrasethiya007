@@ -54,3 +54,4 @@
 ## Excel Projects
 
 * HR Attrition Dashboard : [🔗](https://github.com/bhupendrasethiya007/HR-Attrition-Dashboard-EXCEL)
+* Inventory Management Software : [🔗](https://github.com/bhupendrasethiya007/Inventory-Management-Software-EXCEL)
